@@ -1,7 +1,4 @@
 <resources>
-    <string name="app_name">Mafeking</string>
-    <string name="title_home">Home</string>
-    <string name="iniciar_sesion">Iniciar Sesión</string>
-    <string name="titulo_principal">Grupo Scout Mafeking 601</string>
+    <string name="app_name">Mafeking 601</string>
 
 </resources>

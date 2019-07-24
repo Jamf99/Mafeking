@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "357061304348",
+    "firebase_url": "https://mafeking-601.firebaseio.com",
+    "project_id": "mafeking-601",
+    "storage_bucket": "mafeking-601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357061304348:android:af8623a8858ca6c2",
+        "android_client_info": {
+          "package_name": "principal.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357061304348-264krbbt01gva2cufgkh5v0plhv8vvi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD82cTyrK18DXpK6V0OzRubY1fm6JYwIls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357061304348-264krbbt01gva2cufgkh5v0plhv8vvi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

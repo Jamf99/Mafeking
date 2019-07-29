@@ -60,4 +60,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView4" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="404dp"
+        android:layout_height="47dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/institucional_larga"
+        tools:layout_editor_absoluteY="-14dp"
+        tools:srcCompat="@drawable/institucional_larga" />
 </androidx.constraintlayout.widget.ConstraintLayout>
